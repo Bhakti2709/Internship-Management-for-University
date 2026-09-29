@@ -1,1 +1,1 @@
-# Internship-Management-for-University
+# Internship-Management-System-for-University
